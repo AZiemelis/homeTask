@@ -114,7 +114,7 @@ dateComponents.year = 2000
 dateComponents.month = 6
 dateComponents.day = 9
 dateComponents.timeZone = TimeZone(abbreviation: "GMT") // Eastern European Standard Time
-dateComponents.hour = 22
+dateComponents.hour = 00
 dateComponents.minute = 00
 
 // Create date from components

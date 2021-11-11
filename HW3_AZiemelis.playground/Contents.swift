@@ -72,12 +72,9 @@ print("\nNumber 5 will be after \(counter) shuffles")
 //MARK: - TASK 4
 var bugProgress:Int = 0
 var numberOfDays:Int = 1
-var electricPostHeight:Int = 11
+var electricPostHeight:Int = 10
 
 while true {
-    if bugProgress >= electricPostHeight {
-        break
-    }
     
     bugProgress = bugProgress + 2
     

@@ -22,7 +22,7 @@ func calculateCash(cashInWallet:Int...) {
     print("You have \(cash) euros")
 }
 
-calculateCash(cashInWallet: 5,10,20,50)
+calculateCash(cashInWallet: 5,10,20,50,200,500,100)
 
 //MARK: - Task 3
 
@@ -59,6 +59,7 @@ for i in array {
     }
 }
 print("\nTask 5 result: ")
+
 for a in newArray {
     print(a,terminator: "")
     print(" ",terminator: "")
